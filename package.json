@@ -1,0 +1,16 @@
+{
+  "name": "warden",
+  "license": "ISC",
+  "version": "0.1.0",
+  "repository": "https://github.com/baystation12/warden",
+  "bugs": "https://github.com/baystation12/warden/issues",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "contributors": [
+    "spookerton <spkrtn@pm.me> (https://github.com/spookerton)"
+  ]
+}
